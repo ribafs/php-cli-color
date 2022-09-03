@@ -11,6 +11,17 @@ Simple and easy to use the PHP command-line output of color
 
 `composer require wujunze/php-cli-color`
 
+## Download
+[https://github.com/ribafs/php-cli-color/](https://github.com/ribafs/php-cli-color/)
+
+## Execute
+
+composer du
+
+## Try
+
+php index.php
+
 ## How to use
 ```php
 <?php
